@@ -1,8 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usta.
-
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-
 WhatsAsena - Yusuf Usta
 */
 
@@ -15,12 +13,12 @@ const Lang = Language.getString('_asena');
 
 if (Config.WORKTYPE == 'private') {
 
-    Asena.addCommand({pattern: 'dragon ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'k ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === undefined) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var match = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -49,7 +47,7 @@ if (Config.WORKTYPE == 'private') {
         var CMD_HELP = '';
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === undefined) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var cmatch = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -85,7 +83,7 @@ Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: true, dontAddCommandList: true
     if (match[1] === '') {
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === undefined) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var match = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -114,7 +112,7 @@ Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: true, dontAddCommandList: true
         var CMD_HELP = '';
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === undefined) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var cmatch = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -146,12 +144,12 @@ Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: true, dontAddCommandList: true
 }
 else if (Config.WORKTYPE == 'public') {
 
-    Asena.addCommand({pattern: 'dragon ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'k ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === undefined) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var match = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -180,7 +178,7 @@ else if (Config.WORKTYPE == 'public') {
         var CMD_HELP = '';
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === undefined) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var cmatch = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -216,7 +214,7 @@ Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: false, dontAddCommandList: tru
     if (match[1] === '') {
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === undefined) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var match = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -245,7 +243,7 @@ Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: false, dontAddCommandList: tru
         var CMD_HELP = '';
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === undefined) return;
+                if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var cmatch = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
