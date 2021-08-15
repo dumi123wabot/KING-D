@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/viduna1/Viduna)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=gh repo clone dumi123wabot/KING-D)
      </div>
 <br>
 <br >
@@ -65,7 +65,7 @@ CREATED BY VIDUNA NETHMIRA
 ## Helpers
   <div align="center">
     
-  [![White-Dragon](https://i.ibb.co/7kfyq6H/IMG-20210803-WA0650.jpg?size=100)](https://i.ibb.co/7kfyq6H/IMG-20210803-WA0650.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![KING D](https://i.ibb.co/7kfyq6H/IMG-20210803-WA0650.jpg?size=100)](https://i.ibb.co/7kfyq6H/IMG-20210803-WA0650.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [White-Dragon](https://github.com/farhan-dqz)  | [Ravana](https://github.com/RAVANA-SL/slRavana) | [Unknown ](https://github.com/afnanplk)
 Base, owner | Help to create bot | unknown
