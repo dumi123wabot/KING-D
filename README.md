@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/df8f8f311214588c90cdb.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.ibb.co/7kfyq6H/IMG-20210803-WA0650.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/WHITE🐉DRAGON-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/KING D-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥Viduna-Developer👉Isuru-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="KING D" src="https://img.shields.io/badge/Created💥by💥DUMINDUr👉Isuru-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Viduna-Nethmira</a> to make it public
+Project created by <a href="https://github.com/farhan-dqz"> DUMINDU-CHATHURANGA</a> to make it public
     <br>
        | © |
         Reserved |
@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/farhan-dqz">Viduna-Nethmira</a> t
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BrWCGQZwLaO0D4El6Ne1O5)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IwypalWoEKhDWeQcmbf3Bc)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
@@ -65,7 +65,7 @@ CREATED BY VIDUNA NETHMIRA
 ## Helpers
   <div align="center">
     
-  [![White-Dragon](https://telegra.ph/file/df8f8f311214588c90cdb.jpg?size=100)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![White-Dragon](https://i.ibb.co/7kfyq6H/IMG-20210803-WA0650.jpg?size=100)](https://i.ibb.co/7kfyq6H/IMG-20210803-WA0650.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [White-Dragon](https://github.com/farhan-dqz)  | [Ravana](https://github.com/RAVANA-SL/slRavana) | [Unknown ](https://github.com/afnanplk)
 Base, owner | Help to create bot | unknown
