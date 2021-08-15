@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=gh repo clone dumi123wabot/KING-D)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/dumi123wabot/KING-D.git)
      </div>
 <br>
 <br >
